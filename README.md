@@ -1,2 +1,2 @@
-# Mycode
-我
+# GithubTest
+github连接测试
